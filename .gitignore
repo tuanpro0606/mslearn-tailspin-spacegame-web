@@ -332,4 +332,4 @@ ASALocalRun/
 .mfractor/
 
 # Global files
-./*global.json
+./global.json
